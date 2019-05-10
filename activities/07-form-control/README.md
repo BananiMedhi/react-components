@@ -36,15 +36,6 @@
 
 * Don't worry about styling right now.  Remove `import ./App.css` if needed.
 
-## Bonus:
-
-* Add an input element that takes the order type: delivery or pickup
-    * Try using a `<select><option>...</option></select>` input
-* Add form validation:
-    * If the customer name is empty, show a hint
-    * If the pizza size isn't 10, 12, or 14, show a hint
-    * Disable the "Place Order" button if one or more of the input fields are invalid
-
 ## Success Criteria:
 
 ![success.png](success.png)
